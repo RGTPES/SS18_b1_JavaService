@@ -10,7 +10,7 @@ description = 'SS18_b1_JavaService'
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(21)
+        languageVersion = JavaLanguageVersion.of(23)
     }
 }
 
